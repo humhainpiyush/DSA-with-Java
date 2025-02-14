@@ -4,7 +4,7 @@
 A **1D array** is a linear data structure that stores a fixed-size sequence of elements of the same type. It provides efficient indexing but requires contiguous memory allocation. In this tutorial, we will cover fundamental operations on **1D arrays** using Java.
 
 ## Table of Contents
-1. [Checking for Duplicates](#Checking for Duplicates)
+1. [Checking for Duplicates](#checking-for-duplicates)
 2. [Finding a Missing Number](#finding-a-missing-number)
 3. [Checking if an Array is Palindromic](#checking-if-an-array-is-palindromic)
 4. [Reversing an Array](#reversing-an-array)
