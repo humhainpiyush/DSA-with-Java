@@ -18,6 +18,8 @@ A **1D array** is a linear data structure that stores a fixed-size sequence of e
 - Use nested loops to compare each element with others.
 - If a duplicate is found, print the duplicate value.
 
+<details>
+
 ### **Code:**
 ```java
 public class Duplicate {
@@ -34,6 +36,8 @@ public class Duplicate {
         }
     }
 }
+
+</details>
 ```
 ### **Time Complexity:**
 - **O(n²)** due to nested loops.
