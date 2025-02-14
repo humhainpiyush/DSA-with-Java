@@ -10,7 +10,7 @@ This repository is dedicated to **Data Structures and Algorithms (DSA) in Java**
    - [1D Arrays](https://github.com/humhainpiyush/DSA-with-Java/tree/51ca44c28d980ff3f17aa41a213bd180adba9490/1D%20Array) *(Basic operations, searching, and manipulation)*
    - 2D Arrays *(Coming Soon)*
 2. **Linked Lists** *(Coming Soon)*
-3. **Stacks and Queues** *(Coming Soon)*
+3. **HashMaps, Stacks and Queues** *(Coming Soon)*
 4. **Recursion and Backtracking** *(Coming Soon)*
 5. **Sorting and Searching** *(Coming Soon)*
 6. **Graphs and Trees** *(Coming Soon)*
