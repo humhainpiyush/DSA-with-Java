@@ -75,7 +75,7 @@ public class Missing {
 }
 ```
 
-<details>
+</details>
 
 ### **Alternative Approach:**
 Another approach uses iterative sum computation:
@@ -103,7 +103,9 @@ static int missingNumber(int a[], int n) {
 - Compare the first and last elements, then the second and second-last, and so on.
 - If a mismatch is found, the array is not a palindrome.
 
-### **Code:**
+<details>
+<summary> <h3> Code: </h3> </summary>
+
 ```java
 public class Palindrome {
     public static void main(String[] args) {
@@ -123,6 +125,9 @@ public class Palindrome {
     }
 }
 ```
+
+</details>
+
 ### **Time Complexity:**
 - **O(n)** (single loop iteration).
 ### **Space Complexity:**
@@ -136,7 +141,9 @@ public class Palindrome {
 ### **Approach:**
 - Swap the first and last elements, second and second-last, and so on.
 
-### **Code:**
+<details>
+<summary> <h3> Code: </h3> </summary>
+
 ```java
 public class Reversal {
     public static void main(String[] args) {
@@ -153,6 +160,8 @@ public class Reversal {
     }
 }
 ```
+
+</details>
 ### **Time Complexity:**
 - **O(n)** (single loop iteration).
 ### **Space Complexity:**
