@@ -20,7 +20,8 @@ A **1D array** is a linear data structure that stores a fixed-size sequence of e
 
 <details>
 
-### **Code:**
+<summary><h3> Code: </h3></summary>
+
 ```java
 public class Duplicate {
     public static void main(String[] args) {
@@ -37,9 +38,9 @@ public class Duplicate {
     }
 }
 
+```
 </details>
 
-```
 ### **Time Complexity:**
 - **O(n²)** due to nested loops.
 ### **Space Complexity:**
