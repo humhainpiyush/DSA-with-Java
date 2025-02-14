@@ -14,7 +14,7 @@ In this tutorial, we will cover fundamental operations on **1D arrays** using Ja
 
 ## Table of Contents
 1. [Checking for Duplicates](#checking-for-duplicates)
-2. [Finding a Missing Number](#finding-a-missing-number)
+2. [Finding a Missing Number](#find-a-missing-number)
 3. [Checking if an Array is Palindromic](#checking-if-an-array-is-palindromic)
 4. [Reversing an Array](#reversing-an-array)
 
