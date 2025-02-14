@@ -7,7 +7,7 @@ This repository is dedicated to **Data Structures and Algorithms (DSA) in Java**
 ## Topics Covered
 
 1. **Arrays**
-   - [1D Arrays](./1D Array/README.md) *(Basic operations, searching, and manipulation)*
+   - [1D Arrays](./1D-Array/) *(Basic operations, searching, and manipulation)*
    - 2D Arrays *(Coming Soon)*
 2. **Linked Lists** *(Coming Soon)*
 3. **Stacks and Queues** *(Coming Soon)*
