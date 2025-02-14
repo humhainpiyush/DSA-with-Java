@@ -1,7 +1,16 @@
 # 1D Arrays in Java - DSA with Java
 
 ## Introduction
-A **1D array** is a linear data structure that stores a fixed-size sequence of elements of the same type. It provides efficient indexing but requires contiguous memory allocation. In this tutorial, we will cover fundamental operations on **1D arrays** using Java.
+A **1D array** is a linear data structure that stores a fixed-size sequence of elements of the same type. It provides efficient indexing but requires contiguous memory allocation. Below are some key characteristics of **1D arrays in Java**:
+
+- **Fixed Size**: The size of an array is defined at the time of creation and cannot be changed dynamically.
+- **Efficient Access**: Elements can be accessed in constant time using an index.
+- **Contiguous Memory Allocation**: All elements are stored in consecutive memory locations.
+- **Homogeneous Elements**: A 1D array can store elements of the same data type.
+- **Zero-Based Indexing**: The first element is accessed using index `0`.
+- **Mutable Elements**: Array elements can be updated after initialization.
+
+In this tutorial, we will cover fundamental operations on **1D arrays** using Java.
 
 ## Table of Contents
 1. [Checking for Duplicates](#checking-for-duplicates)
@@ -18,10 +27,7 @@ A **1D array** is a linear data structure that stores a fixed-size sequence of e
 - Use nested loops to compare each element with others.
 - If a duplicate is found, print the duplicate value.
 
-<details>
-
-<summary><h3> Code: </h3></summary>
-
+### **Code:**
 ```java
 public class Duplicate {
     public static void main(String[] args) {
@@ -37,10 +43,7 @@ public class Duplicate {
         }
     }
 }
-
 ```
-</details>
-
 ### **Time Complexity:**
 - **O(n²)** due to nested loops.
 ### **Space Complexity:**
@@ -55,10 +58,7 @@ public class Duplicate {
 - Compute the sum of first `n+1` natural numbers.
 - Subtract the sum of array elements from this sum to get the missing number.
 
-
-<details>
-<summary> <h3> Code: </h3> </summary>
-
+### **Code:**
 ```java
 public class Missing {
     public static void main(String[] args) {
@@ -74,9 +74,6 @@ public class Missing {
     }
 }
 ```
-
-</details>
-
 ### **Alternative Approach:**
 Another approach uses iterative sum computation:
 ```java
@@ -103,9 +100,7 @@ static int missingNumber(int a[], int n) {
 - Compare the first and last elements, then the second and second-last, and so on.
 - If a mismatch is found, the array is not a palindrome.
 
-<details>
-<summary> <h3> Code: </h3> </summary>
-
+### **Code:**
 ```java
 public class Palindrome {
     public static void main(String[] args) {
@@ -125,9 +120,6 @@ public class Palindrome {
     }
 }
 ```
-
-</details>
-
 ### **Time Complexity:**
 - **O(n)** (single loop iteration).
 ### **Space Complexity:**
@@ -141,9 +133,7 @@ public class Palindrome {
 ### **Approach:**
 - Swap the first and last elements, second and second-last, and so on.
 
-<details>
-<summary> <h3> Code: </h3> </summary>
-
+### **Code:**
 ```java
 public class Reversal {
     public static void main(String[] args) {
@@ -160,9 +150,6 @@ public class Reversal {
     }
 }
 ```
-
-</details>
-
 ### **Time Complexity:**
 - **O(n)** (single loop iteration).
 ### **Space Complexity:**
