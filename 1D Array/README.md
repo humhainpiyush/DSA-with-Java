@@ -55,7 +55,10 @@ public class Duplicate {
 - Compute the sum of first `n+1` natural numbers.
 - Subtract the sum of array elements from this sum to get the missing number.
 
-### **Code:**
+
+<details>
+<summary> <h3> Code: </h3> </summary>
+
 ```java
 public class Missing {
     public static void main(String[] args) {
@@ -71,6 +74,9 @@ public class Missing {
     }
 }
 ```
+
+<details>
+
 ### **Alternative Approach:**
 Another approach uses iterative sum computation:
 ```java
