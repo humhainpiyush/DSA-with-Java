@@ -2,15 +2,15 @@
 
 ## Introduction
 
-This repository is dedicated to **Data Structures and Algorithms (DSA) in Java**. It contains well-structured implementations of various DSA concepts along with explanations, making it a great resource for learning and practicing.
+Welcome to the **DSA with Java** repository! This collection is designed to help you learn and implement **Data Structures and Algorithms (DSA) in Java**. It includes well-structured code examples, explanations, and commonly asked interview problems to enhance your understanding and problem-solving skills.
 
 ## Topics Covered
 
 1. **Arrays**
-   - [1D Arrays](https://github.com/humhainpiyush/DSA-with-Java/tree/51ca44c28d980ff3f17aa41a213bd180adba9490/1D%20Array) *(Basic operations, searching, and manipulation)*
-   - 2D Arrays *(Coming Soon)*
+   - [1D Arrays](./1D-Array/README.md) *(Basic operations, searching, and manipulation)*
+   - [2D Arrays](./2D-Array/README.md) *(Matrix operations, prefix sum, and transformations)*
 2. **Linked Lists** *(Coming Soon)*
-3. **HashMaps, Stacks and Queues** *(Coming Soon)*
+3. **Stacks and Queues** *(Coming Soon)*
 4. **Recursion and Backtracking** *(Coming Soon)*
 5. **Sorting and Searching** *(Coming Soon)*
 6. **Graphs and Trees** *(Coming Soon)*
@@ -20,16 +20,16 @@ This repository is dedicated to **Data Structures and Algorithms (DSA) in Java**
 ### Prerequisites
 
 - Java Development Kit (JDK) installed
-- Basic understanding of Java syntax
+- Basic understanding of Java syntax and concepts
 
 ### How to Use
 
-1. Clone this repository:
+1. **Clone this repository:**
    ```bash
    git clone https://github.com/humhainpiyush/DSA-with-Java.git
    ```
-2. Navigate to the required topic and explore the code examples.
-3. Run Java programs using:
+2. **Navigate to the required topic** and explore the code examples.
+3. **Compile and run Java programs:**
    ```bash
    javac FileName.java
    java FileName
@@ -37,14 +37,16 @@ This repository is dedicated to **Data Structures and Algorithms (DSA) in Java**
 
 ## Contributing
 
-Feel free to contribute by improving code, adding explanations, or extending the repository with more DSA topics. Fork the repo, make changes, and submit a pull request!
+We welcome contributions! You can help improve the repository by refining code, adding explanations, or expanding it with additional DSA topics. To contribute:
+1. **Fork the repository**
+2. **Make your changes**
+3. **Submit a pull request**
 
 ## License
 
-This repository is open-source and available for educational purposes.
+This repository is **open-source** and available for **educational purposes**.
 
 ---
 
-Keep coding and improving! 🚀
-
+Happy coding and keep learning! 🚀
 
