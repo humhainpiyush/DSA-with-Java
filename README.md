@@ -6,17 +6,25 @@ Welcome to the **DSA with Java** repository! This collection is designed to help
 
 ## Topics Covered
 
+### Preliminary topics
+1. **Time Complexity** *(Coming Soon)*
+2. **Number System** *(Coming Soon)*
+
 ### Data Structures
 1. **Arrays**
    - [1D Arrays](https://github.com/humhainpiyush/DSA-with-Java/tree/51e4e6fc759d713910764232f764043d5052fc5b/1D%20Array) *(Basic operations, searching, and manipulation)*
    - [2D Arrays](https://github.com/humhainpiyush/DSA-with-Java/tree/284a6cdad5823ca05955b6b813b901a4502f129b/2D%20Array) *(Matrix operations, prefix sum, and transformations)*
 2. **Linked Lists** *(Coming Soon)*
-3. **Stacks and Queues** *(Coming Soon)*
-4. **Graphs and Trees** *(Coming Soon)*
+3. **Hashmaps** *(Coming Soon)*
+4. **Stacks and Queues** *(Coming Soon)*
+5. **Graphs and Trees** *(Coming Soon)*
 
 ### Algorithms
-5. **Recursion and Backtracking** *(Coming Soon)*
-6. **Sorting and Searching** *(Coming Soon)*
+1. **Bit Manipulation** *(Coming Soon)*
+2. **Searching** *(Coming Soon)*
+3. **Sorting** *(Coming Soon)*
+4. **Recursion** *(Coming Soon)*
+5. **Backtracking** *(Coming Soon)*
 
 ## Getting Started
 
